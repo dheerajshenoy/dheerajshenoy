@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 I am **Dheeraj Vittal Shenoy**, physics masters graduate student from India, with specialization in Astronomy and Astrophysics. I love coding, and creating softwares that make my life easier and also enjoyable, and also of course for fun. My favourite programming language is **C++**.
 
-# Projects currently working on
-+ [SonifyCPP](https://github.com/dheerajshenoy/sonifycpp-readme)
-+ [FITSExplorer](https://github.com/dheerajshenoy/FITSExplorer)
-+ [imgv](https://github.com/dheerajshenoy/imgv)
-
 # Languages
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,r,latex,kotlin,php,cs,fortran,bash,java,js,html,css,lua,markdown)
