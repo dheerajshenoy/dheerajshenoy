@@ -16,11 +16,12 @@ I am **Dheeraj Vittal Shenoy**, physics masters graduate student from India, wit
 
 ## Softwares
 
-![Softwares](https://skillicons.dev/icons?i=neovim,blender,androidstudio,arduino,godot,unity)
+![Softwares](https://skillicons.dev/icons?i=emacs,neovim,blender,androidstudio,arduino,godot,unity)
 
 ## Operating System
-![OS](https://skillicons.dev/icons?i=arch)
+![OS](https://skillicons.dev/icons?i=arch,windows)
 
 ## How to reach me ?
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dheeraj-vittal-shenoy)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dheeraj-vittal-shenoy)
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:dheerajshenoy22@gmail.com)
