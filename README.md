@@ -16,10 +16,14 @@ I am **Dheeraj Vittal Shenoy**, physics masters graduate student from India, wit
 
 ## Softwares
 
-![Softwares](https://skillicons.dev/icons?i=emacs,neovim,blender,androidstudio,arduino,godot,unity)
+![Softwares](https://skillicons.dev/icons?i=emacs,neovim,blender,androidstudio,arduino,unity)
 
 ## Operating System
-![OS](https://skillicons.dev/icons?i=arch,windows)
+![OS](https://skillicons.dev/icons?i=linux,windows)
+
+## Favourite Linux Distribution
+
+![Arch Linux](https://skillicons.dev/icons?i=arch)
 
 ## How to reach me ?
 
