@@ -1,36 +1,28 @@
-# About Me
+I'm Dheeraj, a PhD student specializing in Cosmology. I’m passionate about programming and enjoy building software that simplifies complex tasks and enhances everyday workflows. I primarily use C++ for systems-level and performance-critical development, and Python for scientific computing and data analysis.
 
-I am **Dheeraj Vittal Shenoy**, physics masters graduate student from India, with specialization in Astronomy and Astrophysics. I love coding, and creating softwares that make my life easier and enjoyable. **C++** is my highly used programming langagues.
+> [!NOTE]
+> If you find my projects useful or want to support my open-source work, consider [sponsoring](https://github.com/sponsors/dheerajshenoy) me on GitHub.
 
-Check out my blog [here](https://everydingeverydong.blogspot.com)
+Website : [dheerajshenoy.github.io](https://dheerajshenoy.github.io)
 
-Check out my website [here](https://dheerajshenoy.github.io)
+Blog : [everydingeverydong.blogspot.com](https://everydingeverydong.blogspot.com)
 
+### I code mostly in
 
-# Languages
+![My Skills](https://skillicons.dev/icons?i=cpp,python,latex,bash)
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,r,go,latex,kotlin,php,cs,fortran,bash,java,js,html,css,lua,markdown)
-
-## Frameworks
-
-![Frameworks](https://skillicons.dev/icons?i=qt,tensorflow,pytorch)
-
-## Tools
+### Tools
 
 ![Tools](https://skillicons.dev/icons?i=git,github,cmake,regex)
 
-## Softwares
+### Softwares
 
-![Softwares](https://skillicons.dev/icons?i=emacs,neovim,blender,androidstudio,arduino,unity)
+![Softwares](https://skillicons.dev/icons?i=emacs,neovim)
 
-## Operating System
-![OS](https://skillicons.dev/icons?i=linux,windows)
+### Operating System
+![OS](https://skillicons.dev/icons?i=linux,arch,windows)
 
-## Favourite Linux Distribution
-
-![Arch Linux](https://skillicons.dev/icons?i=arch)
-
-## How to reach me ?
+### How to reach me ?
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dheeraj-vittal-shenoy)
 [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:dheerajshenoy22@gmail.com)
