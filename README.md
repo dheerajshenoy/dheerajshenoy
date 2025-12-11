@@ -17,6 +17,8 @@ Blog : [everydingeverydong.blogspot.com](https://everydingeverydong.blogspot.com
 
 ### Softwares
 
+<img height="40px" width="40px" src="https://zed.dev/_next/static/media/logo_wordmark_white_bigger.4f0b8599.png" />
+
 ![Softwares](https://skillicons.dev/icons?i=emacs,neovim)
 
 ### Operating System
