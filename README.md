@@ -1,31 +1,20 @@
-I'm Dheeraj, a PhD student specializing in Cosmology. I’m passionate about programming and enjoy building software that simplifies complex tasks and enhances everyday workflows. I primarily use C++ for systems-level and performance-critical development, and Python for scientific computing and data analysis.
+## About Me
+I'm **Dheeraj**, Cosmology PhD researcher, exploring the application of **Machine Learning** in **Cosmic Microwave Background** (CMB) analysis.
 
-Website : [dheerajshenoy.github.io](https://dheerajshenoy.github.io)
+I love building computer programs that solve problems.
 
-Blog : [everydingeverydong.blogspot.com](https://everydingeverydong.blogspot.com)
+## Links
 
-### I code mostly in
-
-![My Skills](https://skillicons.dev/icons?i=cpp,python,latex,bash)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,cmake,regex)
-
-### Softwares
-
-<img height="40px" width="40px" src="https://zed.dev/_next/static/media/logo_wordmark_white_bigger.4f0b8599.png" />
-
-![Softwares](https://skillicons.dev/icons?i=emacs,neovim)
-
-### Operating System
-![OS](https://skillicons.dev/icons?i=linux,arch,windows)
+- [My Website](https://dheerajshenoy.github.io)
+- [My blog](https://everydingeverydong.blogspot.com)
 
 ### How to reach me ?
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dheeraj-vittal-shenoy)
-[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:dheerajshenoy22@gmail.com)
+- [Linkedin](https://linkedin.com/in/dheeraj-vittal-shenoy)
+- [Mail](mailto:dheerajshenoy22@gmail.com)
 
-### Buy me a coffee
+### Want to support me ?
 
-<a href="https://www.buymeacoffee.com/dheerajshenoy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://github.com/sponsors/dheerajshenoy"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/GitHub_Sponsors-FF5F5F?style=for-the-badge&logo=github-sponsors&logoColor=white"></a>
+<a href="https://liberapay.com/dheerajshenoy"><img alt="Liberapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"></a>
+
