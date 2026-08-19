@@ -15,6 +15,6 @@ I love building computer programs that solve problems.
 
 ### Want to support me ?
 
+<a href="https://ko-fi.com/dheerajshenoy"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-FF5000?logo=ko-fi&logoColor=white&style=for-the-badge"></a>
 <a href="https://github.com/sponsors/dheerajshenoy"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/GitHub_Sponsors-FF5F5F?style=for-the-badge&logo=github-sponsors&logoColor=white"></a>
 <a href="https://liberapay.com/dheerajshenoy"><img alt="Liberapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"></a>
-
